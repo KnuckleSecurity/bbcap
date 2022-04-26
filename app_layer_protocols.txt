@@ -1,0 +1,14 @@
+telnet:23
+ftp:21
+tftp:69
+nfs:2049
+smtp:25
+lpd:515
+snmp:161,162
+dns:53
+dhcp:68
+dhcp:67
+llmnr:5355
+nbns:137
+http:80
+https:443
